@@ -16,6 +16,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/api/v1/health")
 def health(db: Session = Depends(get_db)):
     db.execute(text("SELECT 1"))
