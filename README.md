@@ -8,7 +8,7 @@ PlaceIQ replaces Excel sheets, Google Forms and WhatsApp groups with one system 
 
 ---
 
-## Table of Contents
+## Table of Contentss
 
 1. [Tech stack](#1-tech-stack)
 2. [Project structure](#2-project-structure)
